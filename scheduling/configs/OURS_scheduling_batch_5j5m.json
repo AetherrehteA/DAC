@@ -1,0 +1,10 @@
+{
+  "train_config_file": "PPO_scheduling_2_obj_j5m5/train_config.toml",
+  "model_path": "PPO_scheduling_2_obj_j5m5/policy.pth",
+  "problem_instance": ["/test/j5_m5/test_j5_m5_0.txt","/test/j5_m5/test_j5_m5_1.txt","/test/j5_m5/test_j5_m5_2.txt","/test/j5_m5/test_j5_m5_3.txt","/test/j5_m5/test_j5_m5_4.txt","/test/j5_m5/test_j5_m5_5.txt","/test/j5_m5/test_j5_m5_6.txt","/test/j5_m5/test_j5_m5_7.txt","/test/j5_m5/test_j5_m5_8.txt","/test/j5_m5/test_j5_m5_9.txt","/test/j5_m5/test_j5_m5_10.txt","/test/j5_m5/test_j5_m5_11.txt","/test/j5_m5/test_j5_m5_12.txt","/test/j5_m5/test_j5_m5_13.txt","/test/j5_m5/test_j5_m5_14.txt","/test/j5_m5/test_j5_m5_15.txt","/test/j5_m5/test_j5_m5_16.txt","/test/j5_m5/test_j5_m5_17.txt","/test/j5_m5/test_j5_m5_18.txt","/test/j5_m5/test_j5_m5_19.txt","/test/j5_m5/test_j5_m5_20.txt","/test/j5_m5/test_j5_m5_21.txt","/test/j5_m5/test_j5_m5_22.txt","/test/j5_m5/test_j5_m5_23.txt","/test/j5_m5/test_j5_m5_24.txt","/test/j5_m5/test_j5_m5_25.txt","/test/j5_m5/test_j5_m5_26.txt","/test/j5_m5/test_j5_m5_27.txt","/test/j5_m5/test_j5_m5_28.txt","/test/j5_m5/test_j5_m5_29.txt"],
+  "alternative_objectives": false,
+  "nr_of_objectives": 2,
+  "population_size": 50,
+  "ngen": 50,
+  "rseed": [0,1,2,3,4,5,6,7,8,9]
+}
